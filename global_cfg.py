@@ -1,0 +1,9 @@
+basic_x = 77
+basic_y = 94
+chess_width = 60
+grid_width = 63.5
+zoom_rate = 1.53
+window_width  = 535
+window_height = 600
+exit_grid = [(458, 475),(458, 94),(77, 94),(77, 475)]
+center_grid = (267.5,284.5)
